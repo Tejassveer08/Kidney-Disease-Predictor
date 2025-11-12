@@ -13,8 +13,3 @@ xgboost==2.1.2
 lightgbm==4.5.0
 catboost==1.2.5
 
-# AutoML (PyCaret)
-pycaret==3.3.2
-
-# Misc utilities
-tqdm==4.66.5
